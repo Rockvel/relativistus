@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Relativistus",
+  "name": "Relativistus",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rockvel"],
+  "credits": "Oh shit da hell very impressive nuclear energy source for minecraft!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

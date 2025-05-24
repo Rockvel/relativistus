@@ -1,0 +1,81 @@
+item.itemResource.noire.name=Черный кристалл
+item.itemResource.yoell.name=Йоэль
+item.itemResource.enrichyoell.name=Обогащенный йоэль
+
+item.itemRelative.shard.name=Чистый релятивистский осколок
+item.itemRelative.largeShard.name=Большой релятивистский осколок
+item.itemRelative.chunk.name=Релятивистский обломок
+item.itemRelative.slab.name=Релятивистский кусок
+
+item.itemIronRotor.name=Стальной ротор
+item.itemCarbonRotor.name=Ротор из углеволокна
+item.itemNoireRotor.name=Ротор из черных кристаллов
+item.itemYoellRotor.name=Йоэлевый ротор
+item.itemEnrichYoellRotor.name=Укрепленный йоэлевый ротор
+item.itemRelativeRotor.name=Релятивистский ротор
+
+item.itemBoronSteelRod.name=Стержни из бористой стали
+item.itemCobaltRod.name=Кобальтовые стержни
+item.itemSilverRod.name=Серебряные стержни
+item.itemYoellRod.name=Йоэлевые стержни
+item.itemEnrichYoellRod.name=Обогащенные йоэлевые стержни
+item.itemRelativeRod.name=Релятивистские срержни
+
+item.itemUpgrade.changer.name=Механизм замены элементов
+item.itemUpgrade.II.name=Искусственный интеллект
+item.itemUpgrade.autonomic.name=Блок автономной работы
+item.itemUpgrade.moveSpeed.name=Ускоритель запуска
+item.itemUpgrade.silentAndImmortal.name=Тихий и вечный
+item.itemUpgrade.emitter.name=Продвинутый излучатель частиц
+
+tooltip.shard=Бог все еще жив?..
+tooltip.largeShard=Почему ты читаешь это?..
+tooltip.chunk=Ты все еще слышишь голос?..
+tooltip.slab=Его имя §kРоберт Полсон
+tooltip.rotor0=Эффективность ротора по выходу энергии:
+tooltip.rotor1=До поломки ротора осталось примерно:
+tooltip.rod0=Уменьшают коэффициент размножения нейтронов на
+tooltip.rod1=До поломки стержней осталось примерно:
+tooltip.hours=часов и
+tooltip.minutes=минут.
+tooltip.relative0=Бесконечная
+tooltip.relative1=прочность
+tooltip.relativeRod=Устанавливает коэффициент размножения нейтронов на 1
+tooltip.changer0=Разблокирует слоты для запасных роторов и стержней
+tooltip.changer1=Заменяет их, как только старые ломаются
+tooltip.changer2=Не прекращает реакцию
+tooltip.II=Останавливает реактор, когда у стержней остается 1 прочность, а запасные отсутствуют
+tooltip.autonomic=Cовмещает в себе модули "искусственный интеллект" и "механизм замены элементов"
+tooltip.moveSpeed0=Делает запуск реактора моментальным
+tooltip.moveSpeed1=Уменьшает время на остановку реакции до 100 тиков
+tooltip.silentAndImmortal0=Уменьшает выход энергии на 10%
+tooltip.silentAndImmortal1=Увеличивает прочность роторов и стержней втрое
+tooltip.emitter0=Ускоряет реакцию на 30%
+tooltip.emitter1=Ускоряет износ компонентов на 50%
+
+tile.reactorBlock.reactor.name=Реакторный корпус
+tile.reactorBlock.rod.name=Манипулятор стержнями
+tile.blockCobbleGenerator.name=Генератор булыжника
+
+relativemechanism.reactor=Ядерный реактор
+relativemechanism.on=Работает
+relativemechanism.off=Отключен
+relativemechanism.start=Запуск
+relativemechanism.stop=Отключение
+relativemechanism.explosion=ВЗРЫВ!!!
+relativemechanism.plusText0=Поднимает стержни на 1%
+relativemechanism.plusText1=При зажатом Shift: Поднимает стержни на 10%
+relativemechanism.minusText0=Опускает стержни на 1%
+relativemechanism.minusText1=При зажатом Shift: опускает стержни на 10%
+relativemechanism.startText=Запускает рактор.
+relativemechanism.moduleText=Открывает меню улучшений
+relativemechanism.state=Состояние:
+relativemechanism.stability=Коэффициент:
+relativemechanism.output=Выработка:
+relativemechanism.duration=Длится:
+relativemechanism.deep=Стержни:
+relativemechanism.warning0=Запуск приведет к взрыву.
+relativemechanism.warning1=Реакцию не остановить, пока топливо не сгорит.
+relativemechanism.reactorCrafting=Ядерная реакция
+
+relativemechanism.cobble=Генератор булыжника
